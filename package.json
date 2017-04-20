@@ -1,0 +1,42 @@
+{
+  "name": "generate-graphql",
+  "bin": {
+    "generate-graphql": "./bin/generate-graphql.js",
+    "generate-graphql-json": "./bin/generate-graphql-json.js"
+  },
+  "version": "1.0.0",
+  "description": "Generate JSON and GraphQL files from a JavaScript GraphQLSchema",
+  "main": "index.js",
+  "dependencies": {
+    "call-me-maybe": "^1.0.1",
+    "pify": "^2.3.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "graphql": ">=0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjmehta/generate-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "json",
+    "generate",
+    "build",
+    "relay",
+    "schema",
+    "file",
+    "print",
+    "introspectionQuery"
+  ],
+  "author": "Tejesh Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjmehta/generate-graphql/issues"
+  },
+  "homepage": "https://github.com/tjmehta/generate-graphql#readme"
+}
