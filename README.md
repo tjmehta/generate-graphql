@@ -1,4 +1,6 @@
 # generate-graphql
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tjmehta/generate-graphql.svg)](https://greenkeeper.io/)
 Generate JSON and GraphQL files from a JavaScript GraphQLSchema
 
 # Installation
