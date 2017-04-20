@@ -16,7 +16,7 @@ npm i --save-dev generate-graphql
 
 ##### Parameters
 * schema-filepath - filepath of javascript graphql schema, required
-* output-filepath - filepath to create, defaults to schema.* in current working directory
+* output-filepath - filepath to create, defaults to schema.json or schema.graphql in current working directory
 
 ##### NPM scripts Example
 
