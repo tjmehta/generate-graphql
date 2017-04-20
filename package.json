@@ -1,7 +1,7 @@
 {
   "name": "generate-graphql",
   "bin": {
-    "generate-graphql-json": "./bin/generate-graphql.js",
+    "generate-graphql": "./bin/generate-graphql.js",
     "generate-graphql-json": "./bin/generate-graphql-json.js"
   },
   "version": "1.0.0",
